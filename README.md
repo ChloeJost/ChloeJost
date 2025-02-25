@@ -17,7 +17,7 @@ const chloe = {
         mobileApp: {
             native: ["React"],
         },
-        databases: ["mongo", "MySql", "sqlite", "postgresql"],
+        databases: ["mongo", "MySql", "MariaDB", "sqlite", "postgresql"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Learning new things like Typescript",
